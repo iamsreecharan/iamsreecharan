@@ -3,7 +3,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](http://www.linkedin.com/in/sree-charan-reddy-kailasam-a1943334a)  
 📫 **Email:** sreechk1@umbc.edu  
-
+👨‍💻 **CodeChef:** [My CodeChef Profile](https://www.codechef.com/users/iamsreecharan)  
 ---
 
 ### 🔬 About Me  
