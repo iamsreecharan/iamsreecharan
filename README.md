@@ -1,16 +1,45 @@
-## Hi there 👋
+## 💻 Sree Charan Reddy Kailasam | Data Science Enthusiast    
+📍 **University of Maryland, Baltimore County** | M.S. in Data Science  
 
-<!--
-**iamsreecharan/iamsreecharan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](http://www.linkedin.com/in/sree-charan-reddy-kailasam-a1943334a)  
+📫 **Email:** sreechk1@umbc.edu  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔬 About Me  
+I'm passionate about **Machine Learning, Big Data, and Predictive Analytics**, with hands-on experience in **Apache Spark, NLP, Deep Learning, and Full-Stack Development**. I love turning data into meaningful insights and developing AI-driven solutions.
+
+---
+
+### 📊 Technical Skills  
+💡 **Big Data & Cloud**: Apache Spark, Hadoop, Databricks  
+📈 **Machine Learning & AI**: NLP, Deep Learning (TensorFlow, PyTorch, Keras), K-Means, SVM  
+📊 **Data Visualization**: Matplotlib, Seaborn, Tableau  
+🌐 **Web Development**: Flask, Django, HTML, CSS, JavaScript, Bootstrap  
+💾 **Databases**: MySQL, MongoDB  
+📌 **Programming Languages**: Python, SQL, R, C++  
+
+
+---
+
+### 🎓 Certifications  
+✔ **Tools for Data Science** - IBM, Coursera  
+✔ **Apache Spark Programming with Databricks** - Databricks Academy  
+✔ **Python for Data Science, AI & Development** - IBM, Coursera  
+✔ **Web Development Bootcamp** - Udemy  
+
+---
+
+### 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamsreecharan&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamsreecharan&layout=compact&theme=radical)  
+
+---
+
+### 📫 Connect with Me  
+📩 **Email:** sreechk1@umbc.edu  
+🌍 **LinkedIn:** [Sree Charan Reddy Kailasam](http://www.linkedin.com/in/sree-charan-reddy-kailasam-a1943334a)  
+
+---
+
+📌 *Feel free to explore my projects and connect!* 🚀
