@@ -34,11 +34,6 @@ I'm passionate about **Machine Learning, Big Data, and Predictive Analytics**, w
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamsreecharan&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamsreecharan&layout=compact&theme=radical)  
 
----
-
-### 📫 Connect with Me  
-📩 **Email:** sreechk1@umbc.edu  
-🌍 **LinkedIn:** [Sree Charan Reddy Kailasam](http://www.linkedin.com/in/sree-charan-reddy-kailasam-a1943334a)  
 
 ---
 
