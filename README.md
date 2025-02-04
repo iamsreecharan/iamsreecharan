@@ -30,11 +30,4 @@ I'm passionate about **Machine Learning, Big Data, and Predictive Analytics**, w
 
 ---
 
-### 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamsreecharan&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamsreecharan&layout=compact&theme=radical)  
-
-
----
-
 📌 *Feel free to explore my projects and connect!* 🚀
